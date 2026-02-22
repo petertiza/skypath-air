@@ -30,7 +30,7 @@
 
 ### Backend: PHP 8 + MySQL
 **Endroid QR Code,**
-**Dompdf (PDF palubný lístok)**
+**Dompdf (PDF palubný lístok),**
 **PHPMailer (email notifikácie)**
 
 ### Databáza: MySQL
