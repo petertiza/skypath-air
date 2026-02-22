@@ -24,12 +24,12 @@
 | **Reporty** | Analýzy výkonu a príjmov |
 
 ### Frontend: Vue 3 + Vite
-**Vue Router**
-**MapLibre GL (interaktívna mapa)**
+**Vue Router,**
+**MapLibre GL (interaktívna mapa),**
 **Dark/Light mode prepínanie**
 
 ### Backend: PHP 8 + MySQL
-**Endroid QR Code**
+**Endroid QR Code,**
 **Dompdf (PDF palubný lístok)**
 **PHPMailer (email notifikácie)**
 
